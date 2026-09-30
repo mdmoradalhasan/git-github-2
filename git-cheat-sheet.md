@@ -1,4 +1,4 @@
-# THIS LINE HAS BEED ADDED FOR TESTING.
+# THIS LINE HAS BEEN ADDED FOR TESTING.
 # -----------------------------
 # GIT BASIC CHEAT SHEET
 # -----------------------------
